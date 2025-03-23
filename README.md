@@ -61,5 +61,5 @@ The Random Forest model achieved high accuracy and recall, making it suitable fo
 - **Shahik Shiyam**
 - **Abdullah Sheriffdeen**
 
-## Acknowledgements
+### Acknowledgements
 We express our sincere gratitude to our lecturers and project supervisors, Mr. Fouzul Hassan and Ms. Sapna Dissanayaka, for their mentorship and guidance. We also thank the team at Octave for collaborating with this module and providing valuable industry insights.
